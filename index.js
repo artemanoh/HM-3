@@ -17,7 +17,7 @@ console.log(fullname);
 
 
 const userName = "Артем Левурдяк";
-const payment = 45000;
+const payment = 300;
 const message = alert(
-  `Дякуємо, що обрали нас, ${userName}. До оплати ${payment} гривень`
+  `Дякуємо, ${userName}. До оплати ${payment} гривень`
 );
